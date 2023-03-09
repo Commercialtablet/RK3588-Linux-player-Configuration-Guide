@@ -1,3 +1,8 @@
+
+![微信图片_20221103160221](https://user-images.githubusercontent.com/126669652/223946340-58c03f79-96c5-4c99-8153-7fc4c833e58b.png)
+
+![微信图片_20230309141534](https://user-images.githubusercontent.com/126669652/223946312-d22219d4-ced1-419a-aa24-c8bc23ecb2a6.png)
+
 # RK3588-Linux-player-Configuration-Guide
 
 This is the documentation for RK3588 Linux player Comfiguration Guide, written by Sales Team of HYY Technology Co.,Ltd.
