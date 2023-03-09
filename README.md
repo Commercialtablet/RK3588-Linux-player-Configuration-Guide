@@ -100,7 +100,7 @@ To exit, press ‘Ctrl+X’ (Exit).
 
  
 
-Write command ***sudo reboo*** to restart your player.
+Write command ***sudo reboo\*** to restart your player.
 
  
 
@@ -116,7 +116,7 @@ to set reboot every day.
 
  
 
-In the terminal window, write command: ***sudo crontab-e*** (Select to use Nano as editor) 
+In the terminal window, write command: ***sudo crontab-e\*** (Select to use Nano as editor) 
 
 Add line in the end of the file (This will restart the player every day at 07:00.)
 
@@ -134,7 +134,7 @@ To exit, press ‘Ctrl+X’ (Exit).
 
  
 
-Write command ***sudo reboo*** to restart your player.
+Write command ***sudo reboo\*** to restart your player.
 
  
 
